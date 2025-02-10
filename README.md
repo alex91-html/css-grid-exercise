@@ -2,6 +2,8 @@
 css grid exercise 
 
 
+
+
 CSS GRID learning resources:
 > https://css-tricks.com/snippets/css/complete-guide-grid/
 > https://www.youtube.com/watch?v=uuOXPWCh-6o
@@ -9,6 +11,16 @@ CSS GRID learning resources:
 
 
 
+<img width="1039" alt="Screenshot 2025-02-11 at 00 17 28" src="https://github.com/user-attachments/assets/b5d25dee-7a74-48ee-b797-3d03077b1aa4" />
+
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
                                        ,   ,                                
                                         $,  $,     ,                         
                                         "ss.$ss. .s'                         
